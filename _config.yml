@@ -12,9 +12,9 @@ title                    : "Atabey Ünlü, PhDc"
 title_separator          : "-"
 name                     : &name "Atabey Ünlü"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://atabeyunlu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "atabeyunlu/atabeyunlu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Atabey Ünlü"
   pronouns         : # example: "she/her"  
-  bio              : "Founding Bio/ML Researcher at DeltaWave • PhDc at BioDataLab - Hacettepe University"
-  location         : "Bursa, Türkiye"
-  employer         : 
-  uri              : 
+  bio              : "Founding Bio/ML Scientist at DeltaWave • PhDc at BioDataLab - Hacettepe University"
+  location         : "Paris, France"
+  employer         : "DeltaWave"
+  uri              : "https://deltawave.fr"
   email            : "atabeyunlu@hacettepe.edu.tr"
   email2           : "atabey@deltawave.com"
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
